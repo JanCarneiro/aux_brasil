@@ -1,8 +1,10 @@
-### Projeto referente aos dados do auxilio Brasil até 2022.
+### Projeto de dados do auxilio Brasil até 2022.
 
-Foi efetuado a coleta de arquivos csv do portal de dados abertos, além da coleta de dados de cidades do IBGE para identificação dos municípios.
+Esse projeto realiza a extração, transformação e carga de dados de repasses do Auxilio Brasil para municípios até 2022. 
+
+Foi efetuado a coleta de arquivos csv do portal de dados abertos, além da coleta de dados do IBGE para identificação dos estados. Em seguida é realizado a transformação e processamento dos dados com Pandas e salvo em um banco MySQL.
 
 #### Datasets:
 
-Portal de dados abertos: https://dados.gov.br/dados/conjuntos-dados/auxilio-brasil
+Portal de dados abertos: https://dados.gov.br/dados/conjuntos-dados/auxilio-brasil  
 IBGE: https://www.ibge.gov.br/explica/codigos-dos-municipios.php
