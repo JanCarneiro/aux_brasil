@@ -1,4 +1,4 @@
-### Projeto de dados do auxilio Brasil até 2022.
+### Projeto de dados do Auxílio Brasil até 2022.
 
 Esse projeto realiza a extração, transformação e carga de dados de repasses do Auxilio Brasil para estados até 2022. 
 
