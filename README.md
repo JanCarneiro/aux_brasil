@@ -17,8 +17,6 @@ IBGE: https://www.ibge.gov.br/explica/codigos-dos-municipios.php
 
 ### Como executar esse projeto
 
-#### Faça um Fork no repositório
-
 #### Clone o repositório
 
 git clone <seu_repositorio>
